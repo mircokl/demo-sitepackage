@@ -1,0 +1,21 @@
+page {
+    includeCSS {
+        theme = EXT:demo_sitepackage/Resources/Public/Scss/Theme/theme.scss
+    }
+
+    includeJSLibs {
+
+    }
+
+    includeJS {
+
+    }
+
+    includeJSFooterlibs {
+
+    }
+
+    includeJSFooter {
+        demo_sitepackage_scripts = EXT:demo_sitepackage/Resources/Public/JavaScript/main.js
+    }
+}

@@ -1,0 +1,4 @@
+name: mirco-klein/demo-sitepackage
+label: 'Demo Sitepackage'
+dependencies:
+  - bootstrap-package/full
