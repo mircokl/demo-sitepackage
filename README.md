@@ -18,3 +18,6 @@ Ein individuelles Sitepackage für TYPO3 v13, basierend auf dem [Bootstrap Packa
 2. **Bootstrap Package installieren (falls noch nicht vorhanden):**
    ```bash
    composer require bk2k/bootstrap-package
+
+## Dokumentation
+Die Nachweise finden sich in Form von Screenshots in [Documentation/screenshots] (https://github.com/mircokl/demo-sitepackage/tree/main/Documentation/screenshots). Der Link zum Pull Request findet sich [hier] (https://github.com/mircokl/demo-sitepackage/tree/main/Documentation/doc.txt).
